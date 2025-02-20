@@ -1,0 +1,21 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "misc",
+    "pattern": [
+      " h ",
+      "hgh",
+      " h "
+    ],
+    "key": {
+      "g": {
+        "item": "cobblemon:cell_battery"
+      },
+      "h": {
+        "item": "minecraft:amethyst_shard"
+      }
+    },
+    "result": {
+      "id": "cobblemon:electric_gem"
+    }
+  }
+  

@@ -1,0 +1,21 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "misc",
+    "pattern": [
+      " a ",
+      "ata",
+      " a "
+    ],
+    "key": {
+      "a": {
+        "item": "cobblemon:pink_apricorn"
+      },
+      "t": {
+        "tag": "minecraft:saplings"
+      }
+    },
+    "result": {
+      "id": "cobblemon:pink_apricorn_seed"
+    }
+  }
+  

@@ -1,0 +1,31 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " f ",
+    " l ",
+    " z "
+  ],
+  "key": {
+    "f": {
+      "item": "minecraft:gold_ingot"
+    },
+    "l": {
+      "item": "minecraft:iron_ingot"
+    },
+    "k": {
+	    "item": "minecraft:iron_nugget"
+	  }
+  },
+  "result": {
+    "id": "minecraft:paper",
+    "components": {
+      "minecraft:custom_model_data": 101,
+      "minecraft:item_name": "{\"extra\":[{\"color\":\"aqua\",\"italic\":false,\"text\": \"DNA Splicers\"}],\"italic\":false,\"text\":\"\"}",
+      "minecraft:lore": [
+        "{\"color\":\"gray\",\"text\":\"Changes the form of Kyurem.\"}"
+      ],
+      "flourish:showdown_item": "dnaspicers"
+    }
+  }
+}

@@ -1,0 +1,53 @@
+{
+	"parent": "minecraft:recipes/root",
+	"criteria": {
+		"has_block": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"items": "#universal_dyeing:terracotta"
+					}
+				]
+			}
+		},
+		"has_dye": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"items": "#universal_dyeing:dyes"
+					}
+				]
+			}
+		}
+	},
+	"requirements": [
+		[
+			"has_block"
+		],
+		[
+			"has_dye"
+		]
+	],
+	"rewards": {
+		"recipes": [
+			"white_terracotta",
+			"orange_terracotta",
+			"magenta_terracotta",
+			"light_blue_terracotta",
+			"yellow_terracotta",
+			"lime_terracotta",
+			"pink_terracotta",
+			"gray_terracotta",
+			"light_gray_terracotta",
+			"cyan_terracotta",
+			"purple_terracotta",
+			"blue_terracotta",
+			"brown_terracotta",
+			"green_terracotta",
+			"red_terracotta",
+			"black_terracotta"
+		]
+	}
+}

@@ -1,0 +1,21 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "misc",
+    "pattern": [
+      " h ",
+      "hgh",
+      " h "
+    ],
+    "key": {
+      "g": {
+        "item": "cobblemon:charcoal_stick"
+      },
+      "h": {
+        "item": "minecraft:amethyst_shard"
+      }
+    },
+    "result": {
+      "id": "cobblemon:fire_gem"
+    }
+  }
+  

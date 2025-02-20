@@ -1,0 +1,24 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "misc",
+    "pattern": [
+      " h ",
+      "zcz",
+      " h "
+    ],
+    "key": {
+      "z": {
+        "item": "minecraft:sugar"
+      },
+      "c": {
+        "item": "minecraft:wheat_seeds"
+      },
+      "h": {
+        "item": "minecraft:gold_nugget"
+      }
+    },
+    "result": {
+      "id": "cobblemon:exp_candy_xs"
+    }
+  }
+  

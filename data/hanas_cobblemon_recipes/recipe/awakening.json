@@ -1,0 +1,21 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "misc",
+    "pattern": [
+      "   ",
+      "gz ",
+      "   "
+    ],
+    "key": {
+      "g": {
+        "item": "cobblemon:chesto_berry"
+      },
+      "z": {
+        "item": "cobblemon:medicinal_brew"
+      }
+    },
+    "result": {
+      "id": "cobblemon:awakening"
+    }
+  }
+  

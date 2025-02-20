@@ -1,0 +1,53 @@
+{
+	"parent": "minecraft:recipes/root",
+	"criteria": {
+		"has_block": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"items": "#minecraft:candles"
+					}
+				]
+			}
+		},
+		"has_dye": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"items": "#universal_dyeing:dyes"
+					}
+				]
+			}
+		}
+	},
+	"requirements": [
+		[
+			"has_block"
+		],
+		[
+			"has_dye"
+		]
+	],
+	"rewards": {
+		"recipes": [
+			"white_candle",
+			"orange_candle",
+			"magenta_candle",
+			"light_blue_candle",
+			"yellow_candle",
+			"lime_candle",
+			"pink_candle",
+			"gray_candle",
+			"light_gray_candle",
+			"cyan_candle",
+			"purple_candle",
+			"blue_candle",
+			"brown_candle",
+			"green_candle",
+			"red_candle",
+			"black_candle"
+		]
+	}
+}

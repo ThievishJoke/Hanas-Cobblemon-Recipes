@@ -1,0 +1,27 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "misc",
+    "pattern": [
+      " a ",
+      "ghg",
+      " s "
+    ],
+    "key": {
+      "s": {
+        "item": "minecraft:sugar"
+      },
+      "g": {
+        "item": "cobblemon:exp_candy_s"
+      },
+      "h": {
+        "item": "minecraft:honey_bottle"
+      },
+      "a": {
+        "item": "minecraft:glowstone_dust"
+      }
+    },
+    "result": {
+      "id": "cobblemon:exp_candy_m"
+    }
+  }
+  
