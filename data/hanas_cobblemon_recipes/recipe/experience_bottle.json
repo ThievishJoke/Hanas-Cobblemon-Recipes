@@ -1,21 +1,20 @@
 {
-    "type": "minecraft:crafting_shaped",
-    "category": "misc",
-    "pattern": [
-      "aaa",
-      "aha",
-      "aaa"
-    ],
-    "key": {
-      "a": {
-        "item": "minecraft:sculk"
-      },
-      "h": {
-        "item": "minecraft:glass_bottle"
-      }
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aaa",
+    "aha",
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:sculk"
     },
-    "result": {
-      "id": "minecraft:experience_bottle"
+    "h": {
+      "item": "minecraft:glass_bottle"
     }
+  },
+  "result": {
+    "id": "minecraft:experience_bottle"
   }
-  
+}

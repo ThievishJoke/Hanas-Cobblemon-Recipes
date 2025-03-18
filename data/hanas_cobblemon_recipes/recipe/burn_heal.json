@@ -1,21 +1,20 @@
 {
-    "type": "minecraft:crafting_shaped",
-    "category": "misc",
-    "pattern": [
-      "   ",
-      "gz ",
-      "   "
-    ],
-    "key": {
-      "g": {
-        "item": "cobblemon:rawst_berry"
-      },
-      "z": {
-        "item": "cobblemon:medicinal_brew"
-      }
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "   ",
+    "gz ",
+    "   "
+  ],
+  "key": {
+    "g": {
+      "item": "cobblemon:rawst_berry"
     },
-    "result": {
-      "id": "cobblemon:burn_heal"
+    "z": {
+      "item": "cobblemon:medicinal_brew"
     }
+  },
+  "result": {
+    "id": "cobblemon:burn_heal"
   }
-  
+}

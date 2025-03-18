@@ -1,21 +1,20 @@
 {
-    "type": "minecraft:crafting_shaped",
-    "category": "misc",
-    "pattern": [
-      "   ",
-      "gz ",
-      "   "
-    ],
-    "key": {
-      "g": {
-        "item": "cobblemon:pecha_berry"
-      },
-      "z": {
-        "item": "cobblemon:medicinal_brew"
-      }
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "   ",
+    "gz ",
+    "   "
+  ],
+  "key": {
+    "g": {
+      "item": "cobblemon:pecha_berry"
     },
-    "result": {
-      "id": "cobblemon:antidote"
+    "z": {
+      "item": "cobblemon:medicinal_brew"
     }
+  },
+  "result": {
+    "id": "cobblemon:antidote"
   }
-  
+}

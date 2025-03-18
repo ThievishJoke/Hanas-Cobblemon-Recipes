@@ -1,24 +1,23 @@
 {
-    "type": "minecraft:crafting_shaped",
-    "category": "misc",
-    "pattern": [
-      " s ",
-      "ghg",
-      " s "
-    ],
-    "key": {
-      "s": {
-        "item": "minecraft:sugar"
-      },
-      "g": {
-        "item": "cobblemon:exp_candy_xs"
-      },
-      "h": {
-        "item": "minecraft:honey_bottle"
-      }
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " s ",
+    "ghg",
+    " s "
+  ],
+  "key": {
+    "s": {
+      "item": "minecraft:sugar"
     },
-    "result": {
-      "id": "cobblemon:exp_candy_s"
+    "g": {
+      "item": "cobblemon:exp_candy_xs"
+    },
+    "h": {
+      "item": "minecraft:honey_bottle"
     }
+  },
+  "result": {
+    "id": "cobblemon:exp_candy_s"
   }
-  
+}

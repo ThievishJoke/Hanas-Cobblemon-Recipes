@@ -1,21 +1,20 @@
 {
-    "type": "minecraft:crafting_shaped",
-    "category": "misc",
-    "pattern": [
-      " a ",
-      "ata",
-      " a "
-    ],
-    "key": {
-      "a": {
-        "item": "cobblemon:black_apricorn"
-      },
-      "t": {
-        "tag": "minecraft:saplings"
-      }
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " a ",
+    "ata",
+    " a "
+  ],
+  "key": {
+    "a": {
+      "item": "cobblemon:black_apricorn"
     },
-    "result": {
-      "id": "cobblemon:black_apricorn_seed"
+    "t": {
+      "tag": "minecraft:saplings"
     }
+  },
+  "result": {
+    "id": "cobblemon:black_apricorn_seed"
   }
-  
+}

@@ -1,21 +1,20 @@
 {
-    "type": "minecraft:crafting_shaped",
-    "category": "misc",
-    "pattern": [
-      " h ",
-      "hgh",
-      " h "
-    ],
-    "key": {
-      "g": {
-        "item": "cobblemon:hard_stone"
-      },
-      "h": {
-        "item": "minecraft:amethyst_shard"
-      }
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " h ",
+    "hgh",
+    " h "
+  ],
+  "key": {
+    "g": {
+      "item": "cobblemon:hard_stone"
     },
-    "result": {
-      "id": "cobblemon:rock_gem"
+    "h": {
+      "item": "minecraft:amethyst_shard"
     }
+  },
+  "result": {
+    "id": "cobblemon:rock_gem"
   }
-  
+}

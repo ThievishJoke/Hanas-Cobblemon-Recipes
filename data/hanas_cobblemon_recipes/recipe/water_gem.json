@@ -1,21 +1,20 @@
 {
-    "type": "minecraft:crafting_shaped",
-    "category": "misc",
-    "pattern": [
-      " h ",
-      "hgh",
-      " h "
-    ],
-    "key": {
-      "g": {
-        "item": "cobblemon:mystic_water"
-      },
-      "h": {
-        "item": "minecraft:amethyst_shard"
-      }
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " h ",
+    "hgh",
+    " h "
+  ],
+  "key": {
+    "g": {
+      "item": "cobblemon:mystic_water"
     },
-    "result": {
-      "id": "cobblemon:water_gem"
+    "h": {
+      "item": "minecraft:amethyst_shard"
     }
+  },
+  "result": {
+    "id": "cobblemon:water_gem"
   }
-  
+}

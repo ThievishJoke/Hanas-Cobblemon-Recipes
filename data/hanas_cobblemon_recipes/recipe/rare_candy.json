@@ -1,27 +1,26 @@
 {
-    "type": "minecraft:crafting_shaped",
-    "category": "misc",
-    "pattern": [
-      "hsh",
-      "aga",
-      "hsh"
-    ],
-    "key": {
-      "s": {
-        "item": "minecraft:glistering_melon_slice"
-      },
-      "g": {
-        "item": "minecraft:golden_apple"
-      },
-      "h": {
-        "item": "minecraft:honey_bottle"
-      },
-      "a": {
-        "item": "minecraft:golden_carrot"
-      }
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "hsh",
+    "cgc",
+    "hsh"
+  ],
+  "key": {
+    "g": {
+      "item": "minecraft:glistering_melon_slice"
     },
-    "result": {
-      "id": "cobblemon:rare_candy"
+    "s": {
+      "item": "minecraft:sugar"
+    },
+    "h": {
+      "item": "minecraft:honey_bottle"
+    },
+    "c": {
+      "item": "minecraft:golden_carrot"
     }
+  },
+  "result": {
+    "id": "cobblemon:rare_candy"
   }
-  
+}

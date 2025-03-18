@@ -1,21 +1,20 @@
 {
-    "type": "minecraft:crafting_shaped",
-    "category": "misc",
-    "pattern": [
-      " h ",
-      "hgh",
-      " h "
-    ],
-    "key": {
-      "g": {
-        "item": "cobblemon:silver_powder"
-      },
-      "h": {
-        "item": "minecraft:amethyst_shard"
-      }
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " h ",
+    "hgh",
+    " h "
+  ],
+  "key": {
+    "g": {
+      "item": "cobblemon:silver_powder"
     },
-    "result": {
-      "id": "cobblemon:bug_gem"
+    "h": {
+      "item": "minecraft:amethyst_shard"
     }
+  },
+  "result": {
+    "id": "cobblemon:bug_gem"
   }
-  
+}

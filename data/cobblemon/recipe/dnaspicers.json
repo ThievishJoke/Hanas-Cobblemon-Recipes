@@ -3,7 +3,7 @@
   "category": "misc",
   "pattern": [
     " f ",
-    " l ",
+    "dld",
     " z "
   ],
   "key": {
@@ -13,14 +13,17 @@
     "l": {
       "item": "minecraft:iron_ingot"
     },
-    "k": {
+    "z": {
 	    "item": "minecraft:iron_nugget"
-	  }
+	  },
+    "d": {
+      "item": "minecraft:diamond"
+    }
   },
   "result": {
     "id": "minecraft:paper",
     "components": {
-      "minecraft:custom_model_data": 101,
+      "minecraft:custom_model_data": 200,
       "minecraft:item_name": "{\"extra\":[{\"color\":\"aqua\",\"italic\":false,\"text\": \"DNA Splicers\"}],\"italic\":false,\"text\":\"\"}",
       "minecraft:lore": [
         "{\"color\":\"gray\",\"text\":\"Changes the form of Kyurem.\"}"
